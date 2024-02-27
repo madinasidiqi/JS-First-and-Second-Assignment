@@ -207,3 +207,12 @@
 // console.log(Neighbours);
 
 
+//Lecture introduction to object
+
+let myCountry  ={
+    country : "Afghanistan", 
+    capital: "Kabul", 
+    Language: ["Dari", "Pashto"], 
+    population:30, 
+    Neighbours:["Pakistan", "Iran", "Tajikstan", "Uzbakistan"]
+}
